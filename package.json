@@ -1,0 +1,28 @@
+{
+  "name": "sst-vue-cli",
+  "version": "1.0.8",
+  "description": "A vue template with Element UI & axios & iconfont & permission control & lint & vuex ",
+  "bin": {
+    "sst-vue-cli": "./bin/index.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "starlee",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "clear": "^0.1.0",
+    "commander": "^2.20.0",
+    "download-git-repo": "^1.1.0",
+    "figlet": "^1.2.1",
+    "inquirer": "^6.3.1",
+    "ora": "^3.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:starlii/sst-vue-cli.git"
+  }
+}
