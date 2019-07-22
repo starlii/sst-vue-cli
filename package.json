@@ -1,6 +1,6 @@
 {
   "name": "sst-vue-cli",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "A vue template with Element UI & axios & iconfont & permission control & lint & vuex ",
   "bin": {
     "sst-vue-cli": "./bin/index.js"
